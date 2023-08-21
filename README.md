@@ -15,4 +15,5 @@ Successfully delivered an interactive Power BI dashboard that:
 - Enables the client to easily identify trends and potential correlations contributing to employee turnover.
 - Offers a visually appealing and intuitive interface, empowering the client to make informed decisions regarding HR strategies and employee retention efforts.
 
-<img src = 
+![Dashboard Screenshot](https://example.com/path/to/your/image.png)
+
